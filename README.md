@@ -16,5 +16,4 @@
 - **You must use third party API and you must consume it in the backend** 
 ### Extra:  
 - Both react and react-native
-- For emails, you can integrate with https://www.mailgun.com. They have a free tier that you can utilize
--  
+- For emails, you can integrate with https://www.mailgun.com. They have a free tier that you can utilize. 
