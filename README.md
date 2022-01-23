@@ -15,6 +15,6 @@
 - For backend use Express
 - **You must use third party API and you must consume it in the backend** 
 ### Things to consider: 
-• All APIs input/output should be in JSON format. 
-• Endpoints marked with protected, should be authenticated. 
-• For emails, you can integrate with https://www.mailgun.com. They have a free tier that you can utilize
+- All APIs input/output should be in JSON format. 
+- Endpoints marked with protected, should be authenticated. 
+- For emails, you can integrate with https://www.mailgun.com. They have a free tier that you can utilize
